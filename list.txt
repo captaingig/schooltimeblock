@@ -1,0 +1,11 @@
+# Block those kids!
+youtube.com
+youtubetv.com
+googlevideo.com
+ytimg.com
+youtu.be
+m.youtube.com
+youtube-ui.l.google.com
+ytimg.l.google.com
+ytstatic.l.google.com
+youtubei.googleapis.com
