@@ -45,3 +45,7 @@ tiktokcdn.com.c.worldfcdn.com
 tiktokcdn.com.wsdvs.com
 tiktokcdn.liveplay.myqcloud.com
 tiktokv.com
+m.tiktok.com
+mcs-va.tiktokv.com
+s16.hypstarcdn.com
+v16.tiktokcdn.com
